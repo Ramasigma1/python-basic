@@ -2,5 +2,5 @@ Tujuan Dan Target python basic :
 - memahami basic python
 - mengulang kembali materi basic python
 - bisa melakukan praktek basic python
-- jago bahasa inggris
 - tidak jomok
+- bisa mewing
